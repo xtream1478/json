@@ -1,0 +1,50 @@
+{
+  starter: {
+    productName: "Starter",
+    productId: "starter-plan",
+    amount: 15,
+    credits: 10,
+    description: "Basic interview preparation package",
+    features: [
+      "Technical interview preparation",
+      "Resume review and optimization",
+      "Basic career guidance",
+      "Access to resources library"
+    ],
+    domain: "your-domain.com"  // your actual domain here
+  },
+
+  pro: {
+    productName: "Pro",
+    productId: "pro-plan",
+    amount: 30,
+    credits: 25,
+    description: "Advanced interview and job search package",
+    features: [
+      "All Starter features",
+      "System design interview prep",
+      "Behavioral interview practice", 
+      "Personalized job search strategy",
+      "Priority support"
+    ],
+    domain: "your-domain.com",  // same domain
+    isPopular: true
+  },
+
+  premium: {
+    productName: "Premium",
+    productId: "premium-plan",
+    amount: 50,
+    credits: 50,
+    description: "Complete career development package",
+    features: [
+      "All Pro features",
+      "Mock interview simulations",
+      "Advanced system design prep",
+      "Salary negotiation guidance",
+      "Career roadmap planning",
+      "VIP support"
+    ],
+    domain: "your-domain.com"  // same domain
+  }
+}
