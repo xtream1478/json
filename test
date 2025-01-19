@@ -2,7 +2,7 @@
   starter: {
     productName: "Starter",
     productId: "starter-plan",
-    amount: 15,
+    amount: 1300,
     credits: 10,
     description: "Basic interview preparation package",
     features: [
@@ -17,7 +17,7 @@
   pro: {
     productName: "Pro",
     productId: "pro-plan",
-    amount: 30,
+    amount: 2600,
     credits: 25,
     description: "Advanced interview and job search package",
     features: [
@@ -33,7 +33,7 @@
   premium: {
     productName: "Premium",
     productId: "premium-plan",
-    amount: 50,
+    amount: 4330,
     credits: 50,
     description: "Complete career development package",
     features: [
