@@ -11,7 +11,7 @@
       "Basic career guidance",
       "Access to resources library"
     ],
-    domain: "your-domain.com"  // your actual domain here
+    domain: "https://www.careertoolsai.com" 
   },
 
   pro: {
@@ -27,8 +27,7 @@
       "Personalized job search strategy",
       "Priority support"
     ],
-    domain: "your-domain.com",  // same domain
-    isPopular: true
+    domain: "https://www.careertoolsai.com" 
   },
 
   premium: {
@@ -45,6 +44,6 @@
       "Career roadmap planning",
       "VIP support"
     ],
-    domain: "your-domain.com"  // same domain
+     domain: "https://www.careertoolsai.com" 
   }
 }
